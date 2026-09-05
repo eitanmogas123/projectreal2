@@ -1,7 +1,6 @@
 # חיפוש ספרים
 
-🔗 [לצפייה באתר החי](https://boisterous-dango-81b47e.netlify.app/)       
-
+🔗 (https://boisterous-dango-81b47e.netlify.app/)
 ## תכונות
 - חיפוש אוטומטי תוך כדי הקלדה (debounce), בלי צורך בכפתור
 - מצב טעינה בזמן שהבקשה בדרך
