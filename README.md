@@ -1,7 +1,6 @@
 # חיפוש ספרים
 
-boisterous-dango-81b47e.netlify.app             קישור לאתר-
-אפליקציית ווב לחיפוש ספרים בזמן אמת, מבוססת על ה-API הציבורי של Open Library. בנויה ב-HTML, CSS ו-JavaScript טהור.
+boisterous-dango-81b47e.netlify.app         
 
 ## תכונות
 - חיפוש אוטומטי תוך כדי הקלדה (debounce), בלי צורך בכפתור
